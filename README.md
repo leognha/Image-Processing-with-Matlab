@@ -20,5 +20,8 @@
 
 3.High-boost filtering
 
-3種方法皆為增強圖像細節的幅度，而Laplacian和high-boost filtering顯示出來的結果偏亮，且high-boost filtering增強效果較為顯著，unsharp masking做出來的結果則較有銳利感
-![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW2.png)
+相較於原圖，High-boost filtering還有Laplacian operator做出來的比較偏亮，blurry_moon圖經過Unsharp masking之後，影像看起來更為銳利，相比之下skeleton_orig圖做完Unsharp masking沒有預期的跟blurry_moon圖做過之後一樣銳利。
+相較於spatial空間，frequency domains中做出來的圖都更為偏亮
+
+![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW2-1.png)
+![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW2-2.png)
