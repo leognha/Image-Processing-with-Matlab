@@ -25,3 +25,8 @@
 
 ![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW2-1.png)
 ![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW2-2.png)
+
+# HW3
+
+
+![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW3.png)
