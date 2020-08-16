@@ -50,7 +50,9 @@ Edge Detection
 2.Sobel 90
 
 3.LOG
+
 Sobel mask為0度，用來偵測水平的邊緣會很明顯
 Sobel mask為90度，用來偵測垂直的邊緣會很明顯
 當影像灰階變化 不明顯時，用Laplacian 不如用 Sobel，因為Sobel雜訊比較少
+![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW4.png)
 
