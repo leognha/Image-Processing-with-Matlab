@@ -28,5 +28,12 @@
 
 # HW3
 
+1.RGB
+
+2.HSI
+
+3.Lab
+
+比較不同色彩空間的gamma值設定
 
 ![image](https://github.com/leognha/Image-Processing-with-Matlab/blob/master/result/HW3.png)
